@@ -1,0 +1,2 @@
+[webservers]
+18.176.236.210 ansible_usder=ubuntu
