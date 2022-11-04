@@ -1,6 +1,6 @@
 ---
 - name: playbook new
-  hosts: all
+  hosts: webservers
   vars:
    a: "This is First Playbook"
    b: "This is Second Playbook"
